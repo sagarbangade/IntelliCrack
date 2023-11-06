@@ -4,7 +4,7 @@ streamlit-image-comparison==0.0.4
 
 pandas==2.1.1
 
-ultralytic==8.0.196
+ultralytics==8.0.196
 
 streamlit==1.23.1
 
